@@ -65,14 +65,6 @@ The code uses a **prompt chain** to structure the conversation:
 ### Response Processing
 The AI's response is processed by removing unnecessary tags using regular expressions to ensure clean output.
 
-## Running the Application
-1. After setting up the application as described above, open a terminal and navigate to the project folder.
-2. Use the following command to run the app:
-   ```bash
-  
-
-3. You should now be able to interact with the AI assistant via your web browser.
-
 ## Demo
 You can watch a demo of the application in action here:  
 [Demo Video Link](insert demo link)
@@ -83,9 +75,3 @@ Feel free to fork this repository and contribute by creating issues, submitting 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-- **LinkedIn**: [Your LinkedIn Profile](insert LinkedIn URL)
-- **Email**: [Your Email](insert email)
-```
-
-I’ve removed the Markdown ** for bold formatting and fixed the text styling. You can now preview it without issues. Let me know if you need any other adjustments!
